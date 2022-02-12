@@ -1,4 +1,4 @@
-# MBCA
+# MBCA - MATLAB software
 Multi-Batch Covariance Adjustment:
 
    [newY,delta_,Qstat,pval] = MBCA(Y,F,batchlabel,depth) performs a batch
