@@ -44,6 +44,8 @@ MATLAB code:
    References:
 
    [1] JA Lee, KK dobbin and J Ahn. (2014), Covariance adjustment for batch effect in gene expression data, Statistics in Medicine.   
+   
    [2] Fan et al. (2008), High dimensional covariance matrix estimation using a factor model, Journal of Econometrics.
+   
    [3] Srivastava and Yanagihara (2010), Testing the equality of several covariance matrices with fewer observations than the dimension, Journal
    of Multivariate Analysis.
