@@ -1,5 +1,5 @@
-# MBCA - MATLAB software
-Multi-Batch Covariance Adjustment:
+# MBCA - Multi-Batch Covariance Adjustment
+MATLAB code:
 
    [newY,delta_,Qstat,pval] = MBCA(Y,F,batchlabel,depth) performs a batch
    adjustment such that covariances among batches are equalized as well as the mean.
